@@ -4,9 +4,7 @@
 
 first_str=input("Please enter one character: ")
 
-print(type(first_str))
-
-if first_str == "a" or first_str == "e" or first_str == "i" or first_str == "o" or first_str == "u":
+if first_str in 'aeiou':
     print("Its a vowel.")
 elif isinstance(first_str, str):
     print("Its a consonant.")
