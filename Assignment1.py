@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # Author: Narendra
 # Usage: Assignment 1
-# logs: version 1.0 created on oct 18th
 
 days = ['yesterday','today','tomorrow','dayafter','firstday']
 

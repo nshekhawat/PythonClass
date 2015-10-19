@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # Author: Narendra
 # Usage: To find vowels
-# logs: version 1.0 created on oct 17th
 
 first_str=input("Please enter one character: ")
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Author: Narendra
 # Usage: Assignment 3
-# logs: version 1.0 created on oct 18th
+
 students = ['jhanvi','naresh','sunny','santo','jena','brahma','sri']
 
 for student in students:

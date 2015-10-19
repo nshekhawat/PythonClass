@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # Author: Narendra
 # Usage: Assignment 2
-# logs: version 1.0 created on oct 18th
 
 names = ['jhanvi','naresh','sunny','santo','jena','brahma','sri','brahma','sunny','naresh']
 dup_names = []
