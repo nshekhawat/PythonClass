@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Author: Narendra
-# Usage: To find max of two numbers
+
+'''Wap to find the max of the three numbers ?'''
 
 num1 = int(raw_input("Enter first no.:"))
 num2 = int(raw_input("Enter second no.:"))

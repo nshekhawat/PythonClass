@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Author: Narendra
-# Usage: To find min of two numbers
+
+'''WAP to find the min of the two numbers ?'''
 
 num1 = int(raw_input("Enter first no.:"))
 num2 = int(raw_input("Enter second no.:"))

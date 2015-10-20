@@ -1,12 +1,11 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # Author: Narendra
-# Usage: To find vowels
 
-first_str=input("Please enter one character: ")
+'''Wap to find out if a given character is a vowel or consonant ? Note: 'a','e','i','o','u' are the vowels.'''
+
+first_str=raw_input("Please enter one character: ")
 
 if first_str in 'aeiou':
     print("Its a vowel.")
-elif isinstance(first_str, str):
-    print("Its a consonant.")
 else:
-    print("Its a number.")
+    print("Its a consonant.")
