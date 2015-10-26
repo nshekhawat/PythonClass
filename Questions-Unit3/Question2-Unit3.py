@@ -14,5 +14,12 @@ transactions = raw_input("Please input transaction log: ")
 
 transaction_log = transactions.split(' ')
 
-for transaction in transactions:
-    if transaction in "D"
+count = 0
+
+for i, transaction in enumerate(transaction_log):
+    if transaction == 'D':
+        count += int(transaction_log[i+1])
+    elif transaction == 'W':
+        count -= int(transaction_log[i+1])
+
+print count
