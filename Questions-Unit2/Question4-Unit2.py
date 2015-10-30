@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Author: Narendra
 
-'''
+__doc__ = '''
 Write a script which works out how old a child should be to know a certain word. The classification should be based
 on the length of the word, as follows:
 - 5 years <= 3 letters

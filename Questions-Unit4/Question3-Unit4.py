@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Author: Narendra
 
-'''
+__doc__ = '''
 Create a list made up of all the following 4 lower-case words, 1 word per list item: ["the","dead","parrot","sketch"]
 Assign this list to a reference called: parrot, Write and save (as for1.py ) a short program using a for loop, which
 prints out each word in turn, with the first letter capitalised, together with the length of each word.

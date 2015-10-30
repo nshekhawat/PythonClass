@@ -2,12 +2,12 @@
 # Author: Narendra
 # Usage: Question 3 from Unit 1 exercises
 
-'''Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing
+__doc__ = '''Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing
 all duplicate words and sorting them alphanumerically. Suppose the following input is supplied to the program: hello
 world and practice makes perfect and hello world again Then, the output should be: again and hello makes perfect
 practice world'''
 
-whitespaceline_input = input("Enter whitespace separated line: ")
+whitespaceline_input = raw_input("Enter whitespace separated line: ")
 
 lines = whitespaceline_input.split(' ')
 

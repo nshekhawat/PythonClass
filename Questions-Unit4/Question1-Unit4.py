@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Author: Narendra
 
-'''
+__doc__ = '''
 Perform a list assignment using the Python command line to assign the first 4 prime numbers 2,3,5 and 7 to a list called primes.
 Hint: you will need to use square brackets [] to assemble the list.
 - Append the 5th prime number (11) to this list using the append() method. Print out the primes list

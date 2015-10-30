@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Author: Narendra
 
-'''
+__doc__ = '''
 Assign a list to a reference a , containing a regular sequence of 5 - 8 elements,
 such that if you knew the first 3 elements you would be able to predict the rest. E.G: [3,6,9,12,15,21,24] .
 - Using a slice operation assign 2 elements from the middle of your sequence: e.g. 12 and 15 to another list called c.

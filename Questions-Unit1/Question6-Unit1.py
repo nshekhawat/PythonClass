@@ -2,7 +2,7 @@
 # Author: Narendra
 # Usage: Addition of two numbers
 
-'''Write a program that can receive two integral numbers in string form and compute their sum and then print it in
+__doc__ = '''Write a program that can receive two integral numbers in string form and compute their sum and then print it in
 console.'''
 
 num1 = int(raw_input("Enter first no.:"))

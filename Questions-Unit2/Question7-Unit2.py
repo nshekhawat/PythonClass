@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Author: Narendra
 
-'''
+__doc__ = '''
 Write a small password checking script. This will record the username, old password and new password.
 The rules are that a password is OK if it is >7 characters long, contains some uppercase characters and
 is different to the old password. The admin user (username 'admin') can do whatever they like.
